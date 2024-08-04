@@ -6,13 +6,13 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  greetings: "Hi there! My name is Ahmed Abdelmaaboud. I'm an Application Security / Offensive Security, author and speaker based in Amsterdam, Netherlands. It’s nice to meet you."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: http://offensiveforce.com
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
-# Add your GA Tracking Id
+# Add your GA Tracking Id Todo
 ga_analytics: 
 
 # Contact form setings
@@ -24,7 +24,7 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 twitter: 'kingasmk'
 facebook: 'kingasmk'
 github: 'ahmed.elhady.mohamed'
-medium: '@kingasmk'
+medium: '@ahmed_elhady'
 instagram: 'kingasmk'
 linkedin: 'ahmed elhady mohamed'
 
