@@ -8,7 +8,7 @@ author:
   image: 'authorimage.jpg'
   greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
 favicon: '/assets/images/favicon.ico'
-baseurl: /ahmed.elhady.mohamed.github.io/
+baseurl: 
 production_url: https://royce.netlify.com/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
@@ -31,15 +31,15 @@ linkedin: 'ahmed elhady mohamed'
 # Navigation
 navigation:
   - text: Home
-    url: /ahmed.elhady.mohamed.github.io/
+    url: /
   - text: About
-    url: /ahmed.elhady.mohamed.github.io/about
+    url: /about
   - text: Style Guide
     url: /ahmed.elhady.mohamed.github.io/style-guide
   - text: Contact Me
-    url: /ahmed.elhady.mohamed.github.io/contact
+    url: /contact
   - text: Search
-    url: /ahmed.elhady.mohamed.github.io/search
+    url: /search
 
 # Required Plugins
 plugins_dir:
