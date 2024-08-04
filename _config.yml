@@ -31,7 +31,7 @@ linkedin: 'ahmed elhady mohamed'
 # Navigation
 navigation:
   - text: Home
-    url: /ahmed.elhady.mohamed.github.io
+    url: /ahmed.elhady.mohamed.github.io/
   - text: About
     url: /ahmed.elhady.mohamed.github.io/about
   - text: Style Guide
