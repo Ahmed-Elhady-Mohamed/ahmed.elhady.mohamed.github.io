@@ -7,7 +7,7 @@ logo:
 author:
   image: 'authorimage.jpg'
   greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
-favicon: '/assets/images/favicon.ico'
+favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: http://offensiveforce.com
 disqus: 'justgoodthemes'

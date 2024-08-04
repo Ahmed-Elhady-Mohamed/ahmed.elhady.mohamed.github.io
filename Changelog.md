@@ -17,14 +17,14 @@ Files updated:
 - .gitignore
 - Gemfile
 - \_config.yml
-- /assets/css/style.scss
+- assets/css/style.scss
 
 Files added:
 
 - search.html
 - search.json
 - \_sass/\_search.scss
-- /assets/js/simple-jekyll-search.min.js
+- assets/js/simple-jekyll-search.min.js
 
 Files deleted:
 

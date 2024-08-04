@@ -33,7 +33,7 @@ The theme configuration options can be found within the **\_config.yml** file. M
 - name - the title of your blog, shown in the page and description areas.
 - description - the description of your site for social meta tag, search engines, and feed.xml.
 - logo - the image for site logo.
-- author-image - the author profile image, shown in the sidebar/header intro section. The author image can be found in the royce//assets/images/authorimage.jpg location.
+- author-image - the author profile image, shown in the sidebar/header intro section. The author image can be found in the royce/assets/images/authorimage.jpg location.
 - author-greetings - used in the home page for the text intro section.
 - favicon - the icon for your site.
 - baseurl - the subpath of your site, e.g. /blog, for generating urls. If baseurl is set, you will need to prepend the baseurl to these settings: author image, site navigation, post images.
@@ -65,7 +65,7 @@ url: /newpage/
 
 ### 5. Images
 
-Images for pages are located in the royce//assets/images folder and images for posts are located in the royce//assets/images/posts directory.
+Images for pages are located in the royce/assets/images folder and images for posts are located in the royce/assets/images/posts directory.
 
 #### Image With Caption
 
