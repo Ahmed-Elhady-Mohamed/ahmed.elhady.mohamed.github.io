@@ -33,13 +33,13 @@ navigation:
   - text: Home
     url: /ahmed.elhady.mohamed.github.io
   - text: About
-    url: /about
+    url: /ahmed.elhady.mohamed.github.io/about
   - text: Style Guide
-    url: /style-guide
+    url: /ahmed.elhady.mohamed.github.io/style-guide
   - text: Contact Me
-    url: /contact
+    url: /ahmed.elhady.mohamed.github.io/contact
   - text: Search
-    url: /search
+    url: /ahmed.elhady.mohamed.github.io/search
 
 # Required Plugins
 plugins_dir:
