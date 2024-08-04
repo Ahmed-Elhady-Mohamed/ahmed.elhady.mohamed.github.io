@@ -4,12 +4,12 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Charles Lavoie is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+Ahmed Abdelmaaboud is A seasoned **cyber security expert** based in Amsterdam 🇳🇱 with nearly 14 years of experience. I began my career in 2009 as a hacker and have since specialized in offensive security, focusing on Penetration Testing and Red Teaming. My career has spanned government roles, Big Four consulting, and the financial sector, providing me with a well-rounded skill set.
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+I’ve had the opportunity to build and lead offensive security operations for various organizations, discovering zero-day vulnerabilities and publishing technical findings. My work also involves regulatory assessments like **TIBER**, and **iCast**.
+
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
 
 *Thank You for reading!*
