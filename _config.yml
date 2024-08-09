@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Ahmed Abdelmaaboud. I'm an Application Security / Offensive Security, author and speaker based in Amsterdam, Netherlands. It’s nice to meet you."
+  greetings: "Hi there! My name is Ahmed Abdelmaaboud. I'm an Application Security / Offensive Security based in Amsterdam, Netherlands. It’s nice to meet you."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: http://offensiveforce.com
