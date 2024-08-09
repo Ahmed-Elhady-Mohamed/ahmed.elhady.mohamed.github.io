@@ -11,7 +11,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: http://offensiveforce.com
 disqus: 'OffensiveForce'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+mailchimp_url: 'https://chimpstatic.com/mcjs-connected/js/users/2acb09bfaaf6bfaf171b87e58/2eeb45d3c1e67fd571352e86f.js'
 # Add your GA Tracking Id Todo
 ga_analytics: 
 
