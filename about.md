@@ -4,7 +4,7 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Ahmed Abdelmaaboud is A seasoned **cyber security expert** based in Amsterdam 🇳🇱 with nearly 15 years of experience. Experienced Offensive security assessor with a demonstrated history of working in the information security domain , in banking, telecommunication, service based industry. 
+Ahmed Abdelmaaboud is A **cyber security expert** based in Amsterdam 🇳🇱 with nearly 15 years of experience. Experienced Offensive security assessor with a demonstrated history of working in the information security domain , in banking, telecommunication, service based industry. 
 
 Expert skills in penetration testing, web application security testing, source code review, mobile application security testing expert, DevSecOps engineer, Cloud security and red teaming. 
 
