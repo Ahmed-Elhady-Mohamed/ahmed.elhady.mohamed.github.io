@@ -4,15 +4,16 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Ahmed Abdelmaaboud is A **cyber security expert** based in Amsterdam 🇳🇱 with nearly 15 years of experience. Experienced Offensive security assessor with a demonstrated history of working in the information security domain , in banking and service based industry. 
+Ahmed Abdelmaaboud is A **cyber security expert** based in Amsterdam 🇳🇱 with nearly 15 years of experience. Experienced Offensive security assessor with a demonstrated history of working in the information security domain , in banking and service based industry. I've worked in a well recognised companies such as Adyen, Amazon and Deloitte.  I discovered many vulnerabilities in various products such as Oracle. I published my exploits at packet storm security and exploit-db websites, Moreover I contributed an exploit module to metasploit framework. Always keen to learn new things and share the knowledge among others.
 
-Expert skills in penetration testing, web application security testing, source code review, mobile application security testing expert, DevSecOps engineer, Cloud security and red teaming. 
+My key expertise:
 
-I’ve had the opportunity to build and lead offensive security operations for various organizations, discovering zero-day vulnerabilities and publishing technical findings. 
+* Red Teaming / Adversary Emulations: Expert in simulating advanced threat actors to assess  and improve organizational defenses.
+* Leadership / Mentorship: Proven ability to lead and mentor teams, fostering growth and innovation in offensive security.
+* Penetration Testing and Code Reviews: Skilled in identifying and hunting vulnerabilities through thorough testing and code analysis.
+* Building / Rebranding Offensive Security Operations: Experienced in establishing and enhancing offensive security teams and processes.
+* Writing Process Controls: Adept at developing and implementing security controls and processes for red teaming and SSDLC.
 
-My strong analytical and problem-solving skills, coupled with my ability to think outside the box, allow me to uncover even the most well-hidden vulnerabilities. I am a confident communicator and have experience presenting complex technical information to both technical and non-technical audiences. 
-
-I am dedicated to staying current with the latest trends and techniques in the field, in order to provide the best possible service to my clients and employer.Experienced in successfully managing and executing complex security assessments, improvement projects and penetration tests on complex environments.
 
 
 *Thank You for reading!*
