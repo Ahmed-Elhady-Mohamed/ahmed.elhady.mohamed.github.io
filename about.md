@@ -8,12 +8,10 @@ Ahmed Abdelmaaboud is A **cyber security expert** based in Amsterdam 🇳🇱 wi
 
 My key expertise:
 
-* Red Teaming / Adversary Emulations: Expert in simulating advanced threat actors to assess  and improve organizational defenses.
-* Leadership / Mentorship: Proven ability to lead and mentor teams, fostering growth and innovation in offensive security.
-* Penetration Testing and Code Reviews: Skilled in identifying and hunting vulnerabilities through thorough testing and code analysis.
-* Building / Rebranding Offensive Security Operations: Experienced in establishing and enhancing offensive security teams and processes.
-* Writing Process Controls: Adept at developing and implementing security controls and processes for red teaming and SSDLC.
-
-
+* Penetration Testing: Performing a penetration testing on (web, API, Mobile, Thick) applications, Infrastructure (bare metal, on cloud, hybrid).
+* Code Review: Perform code review for various programing lanaguages and frameworks.
+* DevSecOps: Introduce and implement security tools and controls to SSDLC and itegrate them into DevOps process.
+* Security Audit: Perfrom security audit for most of critical and sophisticated solutions such as (Cloud infrastructure, K8s, Openstack) based on well recognised security standards.
+* Security Awareness: Building and providing a security a wareness sessions for software engineers to help them to understand security issues and how to detect and mitigate them in code. 
 
 *Thank You for reading!*
